@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="night_mode">#6124B1</color>
+    <color name="notificaciones">#13B2C3</color>
+    <color name="private_account">#E6A326</color>
+    <color name="botones">#00ABE2</color>
+</resources>
